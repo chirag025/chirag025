@@ -19,3 +19,8 @@
 ### **Deployment:**  
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)  
 
+<p>
+    <a href="https://community.vaunt.dev/board/chirag025/achievements">
+        <img src="https://api.vaunt.dev/v1/github/entities/chirag025/achievements?format=svg&limit=3" width="350" />
+    </a>
+</p>
